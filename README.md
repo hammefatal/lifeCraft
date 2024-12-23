@@ -2,4 +2,5 @@
 LifeCraft
 -----------------
 # TODO
-* a
+  * jpa / H2
+  * swagger
