@@ -1,2 +1,2 @@
-# lifeCraft
-lifeCraft
+# LifeCraft
+LifeCraft
